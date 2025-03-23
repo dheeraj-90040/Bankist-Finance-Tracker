@@ -1,6 +1,6 @@
 # 💰 Bankist-Vault - Finance Tracker & Budget Buddy
 
-![Bankist Preview](bankist-preview.png)
+![image](https://github.com/user-attachments/assets/d2b5658d-ca6d-4c33-8b9c-f6ed103b4d8d)
 
 ## 🌟 STAR Method Overview
 
@@ -36,10 +36,6 @@ A working finance manager with:
 - [🏦] Loan Eligibility Calculator  
 - [🗂] Yearly Financial Reports  
 - [🔒] Account Closure System  
-
-## 📸 Preview  
-
-![image](https://github.com/user-attachments/assets/16f7a193-2499-4058-ba71-3fe7e77fd68e)
 
 ## 🛠 How to Use  
 1. Clone repo: `git clone https://github.com/yourname/bankist-vault`  
